@@ -1,0 +1,4 @@
+BLOGS, journal, diary, record, site
+FINANCIAL, bitcoin, account
+DRUGS, heroin, cocaine, cannabis, weed, dope
+OTHERS, hi, hello, man, darkweb

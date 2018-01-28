@@ -1,0 +1,41 @@
+NAN
+
+listing: 
+/access      user      group     date             size  name
+
+drwxrwxr-x       109       112  Jan 24  2015      0 NovitÃ 
+drwxrwxr-x       109       112  Jan 07  2017      0-9
+drwxrwxr-x       109       112  Oct 12 17:28      A
+drwxrwxr-x       109       112  Jan 05 07:51      B
+drwxrwxr-x       109       112  Nov 13 10:10      C
+drwxrwxr-x       109       112  Dec 09 10:13      Compilations
+drwxrwxr-x       109       112  Dec 15 11:10      D
+drwxrwxr-x       109       112  Sep 07 17:03      E
+drwxrwxr-x       109       112  Oct 17 07:43      F
+drwxrwxr-x       109       112  Dec 17 21:03      G
+drwxrwxr-x       109       112  Jan 05 07:50      H
+drwxrwxr-x       109       112  Oct 07 15:14      I
+drwxrwxr-x       109       112  Oct 09 16:38      J
+drwxrwxr-x       109       112  Dec 06 18:22      K
+drwxrwxr-x       109       112  Dec 24 10:19      L
+drwxrwxr-x       109       112  Dec 17 20:48      M
+drwxrwxr-x       109       112  Sep 07 17:01      N
+drwxrwxr-x       109       112  Apr 11  2017      O
+drwxrwxr-x       109       112  Dec 07 17:29      P
+drwxrwxr-x       109       112  Nov 26 08:27      Q
+drwxrwxr-x       109       112  Jan 05 11:36      R
+drwxrwxr-x       109       112  Jun 05  2017      S
+drwxrwxr-x       109       112  Oct 08 19:39      T
+drwxrwxr-x       109       112  Mar 11  2016      U
+drwxrwxr-x       109       112  Apr 11  2017      V
+drwxrwxr-x       109       112  Sep 03 18:20      W
+drwxrwxr-x       109       112  Jan 23  2017      X
+drwxrwxr-x       109       112  Oct 03 11:37      Y
+drwxrwxr-x       109       112  Feb 06  2014      Z
+drwxrwxr-x       109       112  Jan 12  2015      _
+drwxrwxr-x       109       112  Nov 23  2014      audiolibri
+drwxrwxr-x       109       112  Jun 12  2015      playlists
+-rw-------        33        33  Jan 05 07:08     4  B  webfs-musica.pid
+
+webfs/1.21   16/Jan/2018 06:25:04 GMT
+

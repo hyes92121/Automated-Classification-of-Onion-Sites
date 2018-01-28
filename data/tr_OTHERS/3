@@ -1,0 +1,2168 @@
+NAN
+
+
+
+
+
+
+
+
+
+
+SoylentNews: SoylentNews is people
+
+
+
+
+
+
+
+
+
+ start template: ID 333, header;misc;default 
+
+
+
+
+
+
+
+
+
+
+
+	Stories
+	
+	Slash Boxes
+	
+	Comments
+
+
+
+	
+		
+			SoylentNews
+		
+		
+			
+				 start template: ID 214, setrectop_img;misc;default 
+
+
+	
+
+
+ end template: ID 214, setrectop_img;misc;default 
+
+
+
+ start template: ID 214, setrectop_img;misc;default 
+
+
+	
+
+
+ end template: ID 214, setrectop_img;misc;default 
+
+
+
+ start template: ID 214, setrectop_img;misc;default 
+
+
+	
+
+
+ end template: ID 214, setrectop_img;misc;default 
+
+
+
+ start template: ID 214, setrectop_img;misc;default 
+
+
+	
+
+
+ end template: ID 214, setrectop_img;misc;default 
+
+
+
+ start template: ID 214, setrectop_img;misc;default 
+
+
+	
+
+
+ end template: ID 214, setrectop_img;misc;default 
+			
+		
+	
+	
+		SoylentNews is people
+		SoylentNews is powered by your submissions, so send in your scoop.  Only 17 submissions in the queue.
+		
+	
+	
+	
+		
+			
+
+ start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			Navigation
+		
+	
+	
+		
+	
+		About
+	
+	
+		FAQ
+	
+	
+		Journals
+	
+	
+		Topics
+	
+	
+		Authors
+		
+	
+		Search
+	
+	
+		Polls
+	
+	
+		Hall of Fame
+	
+	
+		Submit Story
+	
+		
+		
+			Buy Gift Sub
+		
+		
+			Create Account
+		
+		
+			Log In
+		
+		
+	
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+
+
+			
+
+ start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			Sections
+		
+	
+	
+		
+	SoylentNews
+
+	
+
+	
+		
+		Breaking News
+	
+		
+		Community Reviews
+	
+		
+		
+		Meta
+	
+		
+		Politics
+	
+
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+
+
+			
+
+ start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			SoylentNews
+		
+	
+	
+		
+		Twitter
+		IRC
+		Wiki
+		Who's Who?
+		Bug List
+		Dev Server
+
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+
+
+		
+	
+	
+		
+			
+			
+
+ end template: ID 333, header;misc;default 
+
+
+
+ start template: ID 387, index;index;default 
+
+
+	
+	
+		 
+			 start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			Log In
+		
+	
+	
+		
+
+	Log In
+	
+		Nickname
+	
+	
+	
+		Password
+	
+	
+	
+	
+	
+		
+		Public Terminal
+	
+	
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+Create Account
+ | 
+Retrieve Password
+
+
+
+
+	
+	
+		Gift a Subscription
+	
+	
+		Why Gift
+	
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+		
+		
+
+ start template: ID 192, displayblock;dynamicblocks;default 
+
+
+    
+			
+				Site News
+			
+	
+
+	
+		Join our Folding@Home team:
+Main F@H site
+Our team page
+
+
+
+ Begin Funding Progress Indicator 
+
+ Begin Base Funding Progress Indicator 
+ ADJUST WIDTH PERCENT ON INNER DIV WIDTH
+ ADJUST PERCENTAGE ON TEXT INSIDE SPAN
+
+
+  Funding Goal
+  For 6-month period:
+     2018-01-01 to 2018-06-30
+  Estimated Base Goal: $3000.00
+  Progress So Far:Approximately: $345.88
+
+  
+     
+        11.5%
+     
+  
+
+ End Base Funding Progress Indicator 
+
+ Begin Stretch Funding Progress Indicator 
+ ADJUST WIDTH PERCENT ON INNER DIV WIDTH
+ ADJUST PERCENTAGE ON TEXT INSIDE SPAN
+
+
+  Stretch Goal: $2000.00
+  Progress So Far:Approximately: $0.00
+
+  
+     
+        0.0%
+     
+  
+
+ End Stretch Funding Progress Indicator 
+
+ Update Date Below \/ \/ 
+Covers transactions:
+ 2018-01-01 00:00:00 ..
+2018-01-13 07:33:51 UTC
+ (SPIDs: [786..794])
+Last Update:
+2018-01-13 07:37:17 UTC
+ --martyb
+ Update Date    ^^ 
+ End Funding Progress Indicator 
+
+
+
+Support us: Subscribe Here
+and buy SoylentNews Swag
+
+
+
+We always have a place for talented people, visit the Get Involved section on the wiki to see how you can make SoylentNews better.
+
+
+
+ end site_news block 
+		
+	
+
+
+ end template: ID 192, displayblock;dynamicblocks;default 
+
+
+
+ start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			Poll
+		
+	
+	
+		
+
+ start template: ID 360, pollbooth;misc;default 
+
+
+	
+		
+	
+		
+	
+		
+	
+		
+			
+				
+				
+					
+				
+				What was your favorite course of study? (yeah, it's biased -- do your best!)
+				
+					
+						Mathematics
+					
+						Biology
+					
+						Chemistry
+					
+						Physics
+					
+						Software
+					
+						Hardware
+					
+						Humanities
+					
+						Other - specify
+					
+				
+				
+					
+					
+					[ Results |
+					Polls ] 
+					Comments:23 | Votes:69
+				
+			
+		
+	
+
+
+ end template: ID 360, pollbooth;misc;default 
+
+
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+
+
+
+ start template: ID 192, displayblock;dynamicblocks;default 
+
+
+    
+			
+				Most Recent Journal Entries
+			
+	
+
+	
+		
+
+	
+		[The Mighty Buzzard] #MeToo
+	
+
+	
+		[realDonaldTrump] Happy Martin Luther King Day!!!!
+	
+
+	
+		[Gaaark] We don' need no steenkin' dark matter
+	
+
+	
+		[MichaelDavidCrawford] The Very Finest Flame
+	
+
+	
+		[Snow] A Birthday, A Death, and a New Sleeping Partner.
+	
+
+	
+		[Runaway1956] Coolest monkey in the jungle!
+	
+
+	
+		[turgid] Blunder Woman has Died
+	
+
+	
+		[takyon] NASA Kilopower News Conference on Jan. 18
+	
+
+	
+		[DeathMonkey] Trump Censors His Own Transcript, Again
+	
+
+	
+		[TheLink] Handling Names
+	
+
+	
+		[Sulla] Disagreeing with a post does not make it "redundant"
+	
+
+	
+		[painfreeme] The Fenix Offers Myofascial Release Technique to Treat Fasci
+	
+
+	
+		[DECbot] Desktop Devuan on ZFS
+	
+
+	
+		[Knowledge Troll] PostgreSQL KPTI/FUCKWIT performance impact: 7% to 33%
+	
+
+	
+		[urza9814] Soylent ASCII
+	
+
+
+		
+	
+
+
+ end template: ID 192, displayblock;dynamicblocks;default 
+
+
+
+ start template: ID 236, sidebox;misc;default 
+
+
+	
+		
+			Older Stuff
+		
+	
+	
+		
+
+ start template: ID 195, getOlderStories;misc;default 
+
+
+	
+		
+		
+			
+						Monday January 15		
+	
+		"Decorated" Cardiac Stem Cells Could Repair Heart Injuries More Effectively
+		(2)
+	
+	
+
+	
+		Visa Will Make Signatures Optional for Chipped Credit Cards
+		(56)
+	
+	
+
+	
+		Peter Thiel Makes a Bid for Gawker.com
+		(15)
+	
+	
+
+	
+		Chelsea Manning Seeks U.S. Senate Seat for Maryland
+		(50)
+	
+	
+
+		
+			
+		
+		
+		
+			
+						Sunday January 14		
+	
+		Next Generation 911 Could Lead to Next Generation "Swatting"
+		(31)
+	
+	
+
+	
+		Tourism Representative Blames Scientists for Downturn in Great Barrier Reef Visits
+		(26)
+	
+	
+
+	
+		Safety Panel Raises Concerns Over SpaceX and Boeing Commercial Crew Plans
+		(45)
+	
+	
+
+	
+		Liver-Branding Surgeon Fined and Ordered to do Community Service
+		(23)
+	
+	
+
+	
+		Tesla's New York Gigafactory Kicks Off Solar Roof Production
+		(11)
+	
+	
+
+	
+		Newspaper, Journalist under Criminal Investigation for India Database Breach Story
+		(4)
+	
+	
+
+	
+		False Alarm: Emergency Alert in Hawaii Claimed "Missile Inbound"
+		(46)
+	
+	
+
+	
+		Why Don't Electric Cars Look Like the Future?
+		(81)
+	
+	
+
+	
+		GBT Detection Unlocks Exploration of ‘Aromatic’ Interstellar Chemistry
+		(5)
+	
+	
+
+	
+		Canadian Whisky's Long-Awaited Comeback
+		(19)
+	
+	
+
+	
+		Canadian Navy Ends "Draconian" Ban on Warship WiFi.
+		(28)
+	
+	
+		
+	
+
+
+
+
+
+Older Articles
+
+
+
+
+
+
+
+
+
+
+Yesterday's News
+
+
+
+
+
+ end template: ID 195, getOlderStories;misc;default 
+
+
+	
+
+
+ end template: ID 236, sidebox;misc;default 
+
+
+
+ start template: ID 192, displayblock;dynamicblocks;default 
+
+
+    
+			
+				Quick Links
+			
+	
+
+	
+		 begin quicklinks block 
+Found a bug? Report it on GitHub
+
+
+
+ end quicklinks block 
+
+
+		
+	
+
+
+ end template: ID 192, displayblock;dynamicblocks;default 
+
+
+		
+	
+	
+	
+	
+	
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/16/0021250
+	story
+	
+
+
+
+
+
+	
+		
+			Google App Matches Selfies With Catalog of Paintings
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Tuesday January 16, @05:53AM
+		 
+			  
+		
+		
+		from the hopefully-not-a-dali dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:Facial recognition is fun:If you've ever wondered if there's a museum portrait somewhere that looks like you and you're ready to have your ego crushed, there's now an app for that. Google Arts & Culture's latest update now lets you take a selfie, and using image recognition, finds someone in its vast art collection that most resembles you. It will then present you and your fine art twin side-by-side, along with a percentage match, and let you share the results on social media, if you dare.Also at NPR and Alphr.Related: Google Launches Three Photo/Videography "Appsperiments"
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+5 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/16/002232
+	story
+	
+
+
+
+
+
+	
+		
+			Google Temporarily Pulls Ads for Addiction Treatment Centers Worldwide
+			
+		
+	
+
+	
+		
+		posted by
+		
+				martyb
+		
+		on Tuesday January 16, @04:20AM
+		 
+			  
+		
+		
+		from the as-if-addiction-were-only-temporary dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:Google temporarily bans addiction center ads globally following exposure of seedy referral dealsGoogle is temporarily halting advertisements worldwide for addiction and rehabilitation centers, following a report last week showing it was acting as a platform for shady referral services earning huge undisclosed commissions.Essentially these ads, which commanded huge prices on Google's networks, would show for people seeking addiction treatment; the help lines and services listed would then refer the person to an addiction center. These centers were, unknown to their new patients, paying enormous finders fees to the referral services, on the order of tens of thousands of dollars.The ads were already banned in the U.S., but were banned in the UK following a Sunday Times investigation. Google then extended that ban worldwide.Also at The Verge.
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+9 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/15/1517240
+	story
+	
+
+
+
+
+
+	
+		
+			Device Creates Particles With "Negative Mass" at Room Temperature
+			
+		
+	
+
+	
+		
+		posted by
+		
+				janrinok
+		
+		on Tuesday January 16, @02:47AM
+		 
+			  
+		
+		
+		from the lots-of-suck dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:Physicists Say They've Created a Device That Generates 'Negative Mass'Physicists have created what they say is the first device that's capable of generating particles that behave as if they have negative mass. The device generates a strange particle that's half-light/half-matter, and as if that isn't cool enough, it could also be the foundation for a new kind of laser that could operate on far less energy than current technologies.This builds on recent theoretical work on the behaviour of something called a polariton, which appears to behave as if it has negative mass – a mind-blowing property that sees objects move towards the force pushing it, instead of being pushed away.Now physicists from the University of Rochester have created a device that allows them to actually create these polaritons at room temperature. They do this by manipulating captured photons and combine them with a kind of quasi-particle called an exciton to make something half-light/half-matter that some scientists affectionately refer to as 'magic dust'.This alone is "interesting and exciting from a physics perspective," says quantum physicist Nick Vamivakas from Rochester's Institute of Optics. "But it also turns out the device we've created presents a way to generate laser light with an incrementally small amount of power."Anomalous dispersion of microcavity trion-polaritons (open, DOI: 10.1038/nphys4303) (DX)Previously: Physicists Create 'Negative Mass'
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+14 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/15/1514223
+	story
+	
+
+
+
+
+
+	
+		
+			SpaceShipTwo Performs Glide Flight in Advance of Powered Tests
+			
+		
+	
+
+	
+		
+		posted by
+		
+				janrinok
+		
+		on Tuesday January 16, @01:13AM
+		 
+			  
+		
+		
+		from the wheeee! dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				Fnord666 writes:Virgin Galactic conducted its first test flight of its SpaceShipTwo suborbital vehicle in more than five months Jan. 11 as the company prepares to begin powered test flights of the vehicle.The glide flight, conducted in the skies above the Mojave Air and Space Port in California, was the seventh for the second SpaceShipTwo, named VSS Unity, dating back to December 2016. Pilots Mark Stucky and Michael Masucci landed the vehicle at the airport after a successful flight.The glide flight was the first for SpaceShipTwo since one in early August. The company said in a statement that it had spent the intervening months on "extensive analysis, testing and small modifications to ensure vehicle readiness for the higher loads and forces of powered test flight."Virgin Galactic tested those modifications on the glide flight, as the pilots pushed the vehicle into a steep descent shortly after release from its WhiteKnightTwo carrier aircraft, reaching a top speed of Mach 0.9. That is the fastest the vehicle can fly without igniting its hybrid rocket motor, according to the company.This flight may be the last glide test before the vehicle begins powered test flights. "I think we'll probably do one more glide flight, and then we'll be ready to go into powered flight," George Whitesides, chief executive of Virgin Galactic, said in a presentation at the Next-Generation Suborbital Researchers Conference in Broomfield, Colorado, Dec. 18.[...] Virgin Galactic's first SpaceShipTwo, VSS Enterprise, was lost in an accident in a powered test flight in October 2014, the fourth for that vehicle. An investigation by the National Transportation Safety Board concluded the vehicle's co-pilot prematurely unlocked the feathering system for the vehicle that raises its tail for reentry, causing the vehicle to become aerodynamically unstable and break up as it passed through Mach 1. The investigation also blamed vehicle designers for not including safety systems that would have prevented the feathering system from being unlocked during that phase of flight.Source: http://spacenews.com/spaceshiptwo-performs-glide-flight-in-advance-of-powered-tests/Related:Virgin Galactic Spaceship Makes First Glide FlightVirgin Galactic moves on from crash, debuts flashy new spaceshipVirgin Galactic Crash Due to Pilot Error and Design Flaws
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+1 comment
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/15/1243207
+	story
+	
+
+
+
+
+
+	
+		
+			The Corpse of Circuit City Will Rise Again on February 15
+			
+		
+	
+
+	
+		
+		posted by
+		
+				cmn32480
+		
+		on Monday January 15, @11:41PM
+		 
+			  
+		
+		
+		from the signs-of-the-zombie-apocalypse dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				Fnord666 writes:Circuit City [Ed:Circuit City was a multinational consumer electronics retail company that operated stores across the United States] is coming back, and this time, the license holders propping up the ancient big-box retail chain say they mean it.Following a tease of a CES announcement, current company CEO Ronny Shmoel confirmed on Monday that something called Circuit City will arrive as "a new, more personalized online shopping experience" starting February 15. The announcement event, which was reported by tech-business outlet Twice, included promises of AI-driven recommendations fueled by IBM's Watson platform, plus unexplained "augmented reality" and "search by photo" features.[...] With this news in mind, we're keeping an eye on Radio Shack's own shambling corpse. That company currently lives as a license granted to one of the former company's creditors when nobody else bid more for the rights in 2017.Source: https://arstechnica.com/information-technology/2018/01/the-corpse-of-circuit-city-will-rise-again-on-february-15/
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+23 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1928248
+	story
+	
+
+
+
+
+
+	
+		
+			Judge Allows 11-Year-Old to Use Medical Cannabis at School in Illinois
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @09:59PM
+		 
+			  
+		
+		
+		from the legal-spiderweb dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:A District Judge, the Illinois Attorney General's office, and Schaumburg School District 54 have agreed to exempt an 11-year-old from an Illinois law prohibiting medically prescribed cannabis at schools:In a decision that may have sweeping effects, a judge has allowed an 11-year-old Illinois girl to use medical marijuana at school.Medical marijuana is legal in Illinois, and it is against current law for students to use it in school or have school nurses administer it. Now, Ashley Surin is the sole exemption. She overcame a leukemia diagnosis at 2 years old with extensive chemotherapy, but some of her treatments eventually led to having semi regular seizures. Her mother, Maureen Surin, told NPR that since starting medical marijuana treatment, her seizures have immensely declined in number. "We're amazed with her progress," Surin said.Her parents filed a lawsuit in federal court on Wednesday against Schaumburg School District 54 and the State of Illinois, claiming that the state's ban on taking the drug at school violates the Individuals With Disabilities Education Act (IDEA). On Friday, a judge ruled in their favor after hearing from the school district, which reportedly had concerns that its employees may be subject to legal penalties for helping Ashley with her medications."What people seem to misunderstand here is that medical marijuana is a prescription like any other drug," [the family's attorney, Steven Glink, said]. "Prohibiting it in school would be the same as prohibiting other medications such as Ritalin, Adderall or Concerta."
+			
+		
+		
+				
+				[Continues...]
+				
+						A more permanent solution could be necessary (archive):At a hearing in federal court in Chicago to consider the issue, Illinois Assistant Attorney General Thomas Ioppolo said that his office was willing to let school employees dispense the medication without prosecution. But U.S. Judge John Robert Blakey pointed out that officials would have to address the state law prohibition on possession or use of marijuana at school. For the judge to rule on the issue, he said, he would also need to find some legal basis to do so. The court case was continued until Friday, Jan. 19, for the attorney general's office to return with its legal assessment. But a court ruling may be unnecessary, Glink said, if school and state officials and lawmakers can resolve the matter on their own.School district attorney Darcy Kriha said the case could benefit many children beyond Ashley, if school employees are protected from prosecution or license penalties for participating. School access is not the only issue, Maureen Surin said. Ashley wants to go to Disney World in Florida, but also can't get her medicine when she crosses state lines, Surin added.Also at USA Today and NBC Chicago.
+
+Original Submission
+				
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+	
+		446 words in story
+	
+	
+	
+26 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1926202
+	story
+	
+
+
+
+
+
+	
+		
+			Community Reviews: Hands on With System76’s Beautiful Linux Distro Pop!_OS
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @08:26PM
+		 
+			  
+		
+		
+		from the It's-FOSS dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				Phillip writes:Linux system manufacturer System76 introduced a beautiful looking Linux distribution called Pop!_OS. But is Pop OS worth an install? Read the Pop OS review and find out yourself.More at : https://itsfoss.com/pop-os-linux-review/
+
+
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+60 comments
+	
+	
+	
+		Community Reviews
+	
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1923235
+	story
+	
+
+
+
+
+
+	
+		
+			SPARCS CubeSat Will Assess Habitability of Red Dwarf Stars
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @06:53PM
+		 
+			  
+		
+		
+		from the should-be-a-tv-series dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:SPARCS, a NASA-funded CubeSat mission led by Arizona State University, will monitor nearby red dwarf stars for flare activity and sunspots in order to assess their habitability:In 2021, a spacecraft the size of a Cheerios box will carry a small telescope into Earth orbit on an unusual mission. Its task is to monitor the flares and sunspots of small stars to assess how habitable the space environment is for planets orbiting them.The spacecraft, known as the Star-Planet Activity Research CubeSat, or SPARCS for short, is a new NASA-funded space telescope. The mission, including spacecraft design, integration and resulting science, is led by Arizona State University's School of Earth and Space Exploration (SESE)."This is a mission to the borderland of astrophysics and astrobiology," said Evgenya Shkolnik, assistant professor in SESE and principal investigator for the SPARCS mission. "We're going to study the habitability and high-energy environment around stars that we call M dwarfs."[...] Because M dwarfs are so plentiful, astronomers estimate that our galaxy alone contains roughly 40 billion — that's billion with a B — rocky planets in habitable zones around their stars. This means that most of the habitable-zone planets in our galaxy orbit M dwarfs. In fact, the nearest one, dubbed Proxima b, lies just 4.2 light-years away, which is on our doorstep in astronomical terms.
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+5 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1921242
+	story
+	
+
+
+
+
+
+	
+		
+			Biomechanical Robotic Stingray Created
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @05:20PM
+		 
+			  
+		
+		
+		from the but-does-it-sting dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:UCLA Bioengineering leads development of stingray-inspired soft biobotUCLA bioengineering professor Ali Khademhosseini has led the development of a tissue-based soft robot that mimics the biomechanics of a stingray. The new technology could lead to advances in bio-inspired robotics, regenerative medicine and medical diagnostics. The study [DOI: 10.1002/adma.201704189] [DX] was published in Advanced Materials.The simple body design of stingrays, specifically, a flattened body shape and side fins that start at the head and end at the base of their tail, makes them ideal to model bio-electromechanical systems on.The 10-millimeter long robot is made up of four layers: tissue composed of live heart cells, two distinct types of specialized biomaterials for structural support, and flexible electrodes. Imitating nature, the robotic stingray is even able to "flap" its fins when the electrodes contract the heart cells on the biomaterial scaffold.
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+5 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1919241
+	story
+	
+
+
+
+
+
+	
+		
+			Satanic Temple Threatens to Sue Twitter Over Religious Discrimination
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @03:47PM
+		 
+			  
+		
+		
+		from the my-house-my-rules dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				"MrPlow" writes:Submitted via IRC for AndyTheAbsurdThe Satanic Temple, an activist group based in Salem, Massachusetts, is threatening to sue Twitter for religious discrimination after one of its co-founders had his Twitter account permanently suspended.Lucien Greaves, the Satanic Temple's co-founder and spokesman, said his Twitter account was permanently suspended without any notice after he asked his followers to report a tweet that called for the Satanic Temple to be burned down."We're talking to lawyers today," Greaves said Friday about whether he planned to take legal action.Source: http://www.newsweek.com/satanic-temple-threatens-sue-twitter-over-religious-discrimination-780148
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+130 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1913209
+	story
+	
+
+
+
+
+
+	
+		
+			Bright And Stable: New Acid-Tolerant Green Fluorescent Protein For Bioimaging
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @02:14PM
+		 
+			  
+		
+		
+		from the picture-this dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				janrinok writes:Arthur T Knackerbracket has found the following story:Visualizing cellular components and processes at the molecular level is important for understanding the basis of any biological activity. Fluorescent proteins (FPs) are one of the most useful tools for investigating intracellular molecular dynamics.However, FPs have usage limitations for imaging in low pH environments, such as in acidic organelles, including endosomes, lysosomes, and plant vacuoles. In environments of pH less than 6, most FPs lose their brightness and stability due to their neutral pKa. pKa is the measure of acid strength; the smaller the pKa is, the more acidic the substance is."Although there are reports of several acid-tolerant green FPs (GFPs), most have serious drawbacks. Furthermore, there is a lack of acid-tolerant GFPs that are practically applicable to bioimaging," says Hajime Shinoda, lead author of an Osaka University study that aimed to design acid-tolerant monomeric GFP that is practically applicable to live-cell imaging in acidic organelles. "In the current study, we developed an acid-tolerant GFP. We called it Gamillus."[... ] X-ray crystallography (a technique used for determining the atomic and molecular structure of a crystal, in this case, a Gamillus crystal) and point mutagenesis suggest the acid tolerance of Gamillus is attributed to stabilization of deprotonation in its chemical structure. The findings were published in Cell Chemical Biology."The applicability of Gamillus as a molecular tag was shown by the correct localization pattern of Gamillus fusions in a variety of cellular structures, including ones that are difficult to target," corresponding author Takeharu Nagai says. "We believe Gamillus can be a powerful molecular tool for investigating unknown biological phenomena involving acidic organelles, such as autophagy."
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+1 comment
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/199241
+	story
+	
+
+
+
+
+
+	
+		
+			Two New Lawsuits Against Makers of "Pirate Streaming Devices"
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @12:41PM
+		 
+			  
+		
+		
+		from the low-hanging-fruit dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:Netflix, Amazon and Hollywood Sue Kodi-Powered Dragon Box Over PiracySeveral major Hollywood studios, Amazon, and Netflix have filed a lawsuit against Dragon Media Inc, branding it a supplier of pirate streaming devices. The companies accuse Dragon of using the Kodi media player in combination with pirate addons to facilitate mass copyright infringement via its Dragon Box device. [...] In recent months these boxes have become the prime target for copyright enforcers, including the Alliance for Creativity and Entertainment (ACE), an anti-piracy partnership between Hollywood studios, Netflix, Amazon, and more than two dozen other companies.After suing Tickbox last year a group of key ACE members have now filed a similar lawsuit against Dragon Media Inc, which sells the popular Dragon Box. The complaint, filed at a California federal court, also lists the company's owner Paul Christoforo and reseller Jeff Williams among the defendants.According to ACE, these type of devices are nothing more than pirate tools, allowing buyers to stream copyright infringing content. That also applies to Dragon Box, they inform the court. "Defendants market and sell 'Dragon Box,' a computer hardware device that Defendants urge their customers to use as a tool for the mass infringement of the copyrighted motion pictures and television shows," the complaint, picked up by HWR, reads.
+			
+		
+		
+				
+				[Continues...]
+				
+						Also at Ars Technica.Rights Holders Launch Landmark Case Against 'Pirate' Android Box SellersRightsholders will tread new ground today when they attempt a private prosecution of 'pirate' Android box sellers in Singapore. In what many believe is a legal gray area, SingTel, Starhub, Fox Networks Group and Premier League will seek a win in order to suppress further sales in the region. [...] Today will see these rights holders attempt to launch a pioneering private prosecution against set-top box distributor Synnex Trading and its client and wholesale goods retailer, An-Nahl. It's reported that the rights holders have also named Synnex Trading director Jia Xiaofen and An-Nahl director Abdul Nagib as defendants in their private criminal case.[...] The importance of the case cannot be understated. While StarHub and other broadcasters have successfully prosecuted cases where people unlawfully decrypted broadcast signals, the provision of unlicensed streams isn't specifically tackled by Singapore's legislation. It's now a major source of piracy in the region, as it is elsewhere around the globe.
+*SPOILER* (click to show)
+*SPOILER* (click to hide)
+Related: Middlesbrough Trader Prosecuted for Selling Streaming Boxes Preloaded With KodiFive Arrests in 'Fully Loaded' Kodi Streaming Box RaidsMPAA Chief Focuses Attention on the Kodi PlatformKodi Panic in the UK and Popularity in North AmericaKodi Add-on Library "TVAddons" Disappears After LawsuitHollywood Strikes Back Against Illegal Streaming Kodi Add-OnsKodi Returns to its Roots With an Xbox One Release
+
+Original Submission
+				
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+	
+		441 words in story
+	
+	
+	
+23 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/196225
+	story
+	
+
+
+
+
+
+	
+		
+			The Iceman Checks Out, Scientifically
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @11:08AM
+		 
+			  
+		
+		
+		from the west-meets-east dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				JoeMerchant writes:Wim Hof first caught the attention of scientists when he proved he was able to use meditation to stay submerged in ice for 1 hour and 53 minutes without his core body temperature changing. Since then, he's climbed Mount Everest in his shorts, resisted altitude sickness, completed a marathon in the Namib Desert with no water and proven under a laboratory setting that he's able to influence his autonomic nervous system and immune system at will.Almost everything Wim has done was previously thought to be impossible - but he's not a freak of nature.To demonstrate that any human can learn his methods, Wim offered to teach Matt Shea and Daisy-May Hudson to climb a freezing cold mountain in their shorts without getting cold.Buddhist breathing techniques repackaged for westerners? There's an app for that.
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+29 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/194258
+	story
+	
+
+
+
+
+
+	
+		
+			Experts Link Shadow Brokers and Russia
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @09:35AM
+		 
+			  
+		
+		
+		from the who-knew dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				"MrPlow" writes:Submitted via IRC for TecklaThere is increasing evidence linking Russia to the Shadow Brokers leaks, which is "one of the worst security debacles ever to befall American intelligence."Source: https://finance.yahoo.com/news/experts-link-nsa-leaks-shadow-brokers-russia-kaspersky-144840962.html
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+18 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 42, dispStory;misc;default 
+
+
+
+	18/01/14/1859224
+	story
+	
+
+
+
+
+
+	
+		
+			NASA Engineers Demonstrate Fully Autonomous X-Ray Navigation in Space
+			
+		
+	
+
+	
+		
+		posted by
+		
+				Fnord666
+		
+		on Monday January 15, @08:02AM
+		 
+			  
+		
+		
+		from the watch-where-you're-going dept.
+	
+	
+		 
+		
+			
+			
+				
+					
+				
+			
+			
+		
+		
+			
+			
+				takyon writes:NASA Team First to Demonstrate X-ray Navigation in SpaceIn a technology first, a team of NASA engineers has demonstrated fully autonomous X-ray navigation in space — a capability that could revolutionize NASA's ability in the future to pilot robotic spacecraft to the far reaches of the solar system and beyond.The demonstration, which the team carried out with an experiment called Station Explorer for X-ray Timing and Navigation Technology, or SEXTANT, showed that millisecond pulsars could be used to accurately determine the location of an object moving at thousands of miles per hour in space — similar to how the Global Positioning System, widely known as GPS, provides positioning, navigation, and timing services to users on Earth with its constellation of 24 operating satellites.[...] The SEXTANT technology demonstration, which NASA's Space Technology Mission Directorate had funded under its Game Changing Program, took advantage of the 52 X-ray telescopes and silicon-drift detectors that make up NASA's Neutron-star Interior Composition Explorer, or NICER. Since its successful deployment as an external attached payload on the International Space Station in June, it has trained its optics on some of the most unusual objects in the universe."We're doing very cool science and using the space station as a platform to execute that science, which in turn enables X-ray navigation," said Goddard's Keith Gendreau, the principal investigator for NICER, who presented the findings Thursday, Jan. 11, at the American Astronomical Society meeting in Washington. "The technology will help humanity navigate and explore the galaxy."Neutron Star Interior Composition ExplorerPreviously: NASA to Study Neutron Stars; Sends New Instrument to ISS; SpaceX Launch Sat @ 2107 UTC (1707 EDT)Related: Voyager's 'Cosmic Map' Of Earth's Location Is Hopelessly Wrong
+
+Original Submission
+			
+		
+			
+
+
+
+
+
+
+
+	
+
+
+ end template: ID 42, dispStory;misc;default 
+
+
+
+ start template: ID 235, storylink;index;default 
+
+
+	
+	
+	
+	
+		Read More...
+	
+	
+	
+9 comments
+	
+	
+	
+	
+
+
+ end template: ID 235, storylink;index;default 
+
+
+
+ start template: ID 155, next_prev_issue;index;default 
+
+
+
+
+
+
+<  
+
+Yesterday's News
+
+  >
+
+
+
+ end template: ID 155, next_prev_issue;index;default 
+
+
+	
+
+ end template: ID 387, index;index;default 
+
+
+
+ start template: ID 86, footer;misc;default 
+
+	
+		
+		
+			
+			Too much is just enough.
+		-- Mark Twain, on whiskey
+			
+			
+				
+					
+						
+						
+						
+					
+				
+			
+			
+				
+			
+			
+				
+					
+						Home
+					
+					
+						About
+					
+					
+						FAQ
+					
+					
+						Journals
+					
+					
+						Topics
+					
+					
+						Authors
+					
+					
+						Search
+					
+					
+						Polls
+					
+					
+						Submit Story
+										
+						
+							Buy Gift Sub
+						
+						
+							Create Account
+						
+						
+							Log In
+						
+					
+					
+						
+						
+					
+				
+			
+		
+		
+	
+
+
+
+
+
+ end template: ID 86, footer;misc;default 
