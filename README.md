@@ -1,5 +1,8 @@
 # Project Overview
 A project to classify Onion Sites.
+* Accesses Tor network through SOCKS5 proxy
+* Crawls URLs
+* Scrapes text for onion site classification
 
 # Steps:
 1. run getBOW.py with the first command line argument as a file containing all urls of onion sites and the second arg as the output directory name.
